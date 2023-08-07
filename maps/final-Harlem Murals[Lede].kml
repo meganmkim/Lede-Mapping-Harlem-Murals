@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Harlem Murals Final [Lede]</name>
+    <description>Harlem Murals on 125th-126th st. for Lede Project</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>No Truth, No Light Mural</name>
+        <description><![CDATA[<img src="https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/3m7qnjvlhucuhcgp641dsqh8qc/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4m1t48zC7FvqWov7szkw2loDJJ2mBP2LgqABdIqYZY25CQvLFFJT6sgZHaFhSvyswtv6oLPmL6pr21B2yQ6QTJzeAGd0yiBpQ0de2EbVZ9qxgG0HsqQradwZmhqJzbgkKwvlT6wPDleIvZn7TSi81cTG8wI8pWQLoYcFD8REqqCql3iWdnBITmpEekPp01Q_E7vmU_axe1BE1glaVrcx9t4B8flZwRKrJiXv5sdmfDVxE?session=0&fife" height="200" width="auto" /><br><br>Marina Zumi]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/3m7qnjvlhucuhcgp641dsqh8qc/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4m1t48zC7FvqWov7szkw2loDJJ2mBP2LgqABdIqYZY25CQvLFFJT6sgZHaFhSvyswtv6oLPmL6pr21B2yQ6QTJzeAGd0yiBpQ0de2EbVZ9qxgG0HsqQradwZmhqJzbgkKwvlT6wPDleIvZn7TSi81cTG8wI8pWQLoYcFD8REqqCql3iWdnBITmpEekPp01Q_E7vmU_axe1BE1glaVrcx9t4B8flZwRKrJiXv5sdmfDVxE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9506384,40.8105875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Education is Not a Crime Mural</name>
+        <description><![CDATA[<img src="https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/lt5gqsi0hhmuv32m53lhke2f74/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5k6MEUwYXqWPllTFKOHoA0UXSM6bORfSdn40-TmtcB7pp72tIDARwdPns74bbJ9c_1k7HDhkji5Qx2czx32utlsrciTg4SbwV_7RznFfvb64Tdc7QxcbiFoQovHGn_dMGqMdIHr9peBRk54eYmTmPUJizj_2CW_rgHP7GlK_kpns0aPpf-srJfshIFfbM3fcrgGmwp-CaJXksKJXbDt7RXYhyvb-QmclJAKNv2GGQDudU?session=0&fife" height="200" width="auto" /><br><br>Erik T Burke]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/lt5gqsi0hhmuv32m53lhke2f74/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5k6MEUwYXqWPllTFKOHoA0UXSM6bORfSdn40-TmtcB7pp72tIDARwdPns74bbJ9c_1k7HDhkji5Qx2czx32utlsrciTg4SbwV_7RznFfvb64Tdc7QxcbiFoQovHGn_dMGqMdIHr9peBRk54eYmTmPUJizj_2CW_rgHP7GlK_kpns0aPpf-srJfshIFfbM3fcrgGmwp-CaJXksKJXbDt7RXYhyvb-QmclJAKNv2GGQDudU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9487168,40.8101444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Women's Health Community Mural Project]]></name>
+        <description><![CDATA[<img src="https://doc-0s-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/ih0u3np7rhl8o5skmu2oc85ci8/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5kHCMCbJHff6dPAK9UUT4U8mH1T5g2lebRU68RHBalxFsgYiwP1knXe0JNemB7DcmmvpQ0KUshhGhVKKBejCpxLsKYgVxkIbNAU6n7TWBqTHxCyDm6vnWJGdEYHqLYCmhXdSmjeT68fTwKgqgRYHYAOxn3BZDB8fr78B31sCjFYOW3KXu8m0N86R1NORuCIhEdKer7s6wEsJZ4gTRY5goP9kf7yZWhesNnqwbBU7Q4yhs?session=0&fife" height="200" width="auto" /><br><br>Artistic Director/Muralist: Bryan Collier]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/ih0u3np7rhl8o5skmu2oc85ci8/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5kHCMCbJHff6dPAK9UUT4U8mH1T5g2lebRU68RHBalxFsgYiwP1knXe0JNemB7DcmmvpQ0KUshhGhVKKBejCpxLsKYgVxkIbNAU6n7TWBqTHxCyDm6vnWJGdEYHqLYCmhXdSmjeT68fTwKgqgRYHYAOxn3BZDB8fr78B31sCjFYOW3KXu8m0N86R1NORuCIhEdKer7s6wEsJZ4gTRY5goP9kf7yZWhesNnqwbBU7Q4yhs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9469841,40.8087538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grandscale Mural Project Part I</name>
+        <description><![CDATA[<img src="https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/o9pp9qfp1i8gqsl8hmjpnu3jss/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4jNvWiBYXs9R-8xtpWiDBYr12oCdUNQ5QBe8jLY2C4LOCsOIh07HM0vAtH5ZEvD-SbhSf4Q_3REvowR0sdPY56Url7cLTdF0ZWkN-GCan0lqFVUHmVtNR9Cx1htuS9Vh8JybXmHQ7ybgMFXMUMKZ-HJH5bXi4izdehFTtKl3eYWE5i7x59533mXR9VJFmH-lsAyi9E5avXq3H_QLINI5rzORq10q6F1iAiA30QrZAYE1Q?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/o9pp9qfp1i8gqsl8hmjpnu3jss/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4jNvWiBYXs9R-8xtpWiDBYr12oCdUNQ5QBe8jLY2C4LOCsOIh07HM0vAtH5ZEvD-SbhSf4Q_3REvowR0sdPY56Url7cLTdF0ZWkN-GCan0lqFVUHmVtNR9Cx1htuS9Vh8JybXmHQ7ybgMFXMUMKZ-HJH5bXi4izdehFTtKl3eYWE5i7x59533mXR9VJFmH-lsAyi9E5avXq3H_QLINI5rzORq10q6F1iAiA30QrZAYE1Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9397452,40.8052912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grandscale Mural Project Part II</name>
+        <description><![CDATA[<img src="https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/9n56bm24abe2i0e92fr3j14b58/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6_04K2ij9Iv8iEXPqqiqLtU2xCfXrp0qEwC39PC3aJLPx7nFf8jKuMEKwwwzg5IVxMyZIRhI860fJBS93y8YTVAsGh5wclT5s5Ylgv0r8iQUo158MF46Cz9PElW_1786R37O4WU70tXJiRZ2M9QDbZr195J-lo_s-JWNJvL-qMAUnV3ByUc1p0zJNPopRvsym-RjbKTtYqppq08nae-cpkvnToasVz7vrkE3Vxwof7eeQ?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/9n56bm24abe2i0e92fr3j14b58/1691166126000/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6_04K2ij9Iv8iEXPqqiqLtU2xCfXrp0qEwC39PC3aJLPx7nFf8jKuMEKwwwzg5IVxMyZIRhI860fJBS93y8YTVAsGh5wclT5s5Ylgv0r8iQUo158MF46Cz9PElW_1786R37O4WU70tXJiRZ2M9QDbZr195J-lo_s-JWNJvL-qMAUnV3ByUc1p0zJNPopRvsym-RjbKTtYqppq08nae-cpkvnToasVz7vrkE3Vxwof7eeQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9386482,40.8048405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

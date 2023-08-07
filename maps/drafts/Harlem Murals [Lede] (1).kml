@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Harlem Murals [Lede]</name>
+    <description>Harlem Murals on 125th-126th st. for Lede Project</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>No Truth, No Light Mural</name>
+        <description><![CDATA[<img src="https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/7g3d246f7hcnfc2lbe85ah0op8/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4Kzr1V4O5MRHLNQp4GXzqSRkWM_IjX4HOf-UdzFPhSb24qRZeDhMdhaLbWLnmAaV0skTqYudlIfme8MkY7wWivQbHanc-mPCERZGXq2mzToz3vTp5bZakxwZ_6PiCMcRIDRhRiMatqqFe3DzdeKGPMcBBis9GbuLYepwLWshJ1YiQxLO-NOjgS1FvCKamqGeTJjVzw-frC4J2qTTC1e92ViJefVK6UExA1IxLHvEVH4h0?session=0&fife" height="200" width="auto" /><br><br>Marina Zumi]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/7g3d246f7hcnfc2lbe85ah0op8/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4Kzr1V4O5MRHLNQp4GXzqSRkWM_IjX4HOf-UdzFPhSb24qRZeDhMdhaLbWLnmAaV0skTqYudlIfme8MkY7wWivQbHanc-mPCERZGXq2mzToz3vTp5bZakxwZ_6PiCMcRIDRhRiMatqqFe3DzdeKGPMcBBis9GbuLYepwLWshJ1YiQxLO-NOjgS1FvCKamqGeTJjVzw-frC4J2qTTC1e92ViJefVK6UExA1IxLHvEVH4h0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9506384,40.8105875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Education is Not a Crime Mural</name>
+        <description><![CDATA[<img src="https://doc-0c-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/mra4gh5ovlaaef6ad1p1qengck/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7oLYd1DQXz5PvUC2ln79kQQmYErQhBBdpSOYvY2MlQq8Y1eM36ahmr37CmiSNKql5Cm21lhwluE0llceI5r8z2q58YgIzrYCwIk6q1dO2ipvf0CI2t0mL6yLMc2HxvTCcnDELXDjEWWC_ijHjPh0Bvm3tvvq4nf9wl8Vr0wj5PiN_-Uobvns0m11rzZYJO3DMT5YmbB28y6y42oJ0lbzJnfTTqNgv7YYa5MAHEUcRt_Wg?session=0&fife" height="200" width="auto" /><br><br>Erik T Burke]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/mra4gh5ovlaaef6ad1p1qengck/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7oLYd1DQXz5PvUC2ln79kQQmYErQhBBdpSOYvY2MlQq8Y1eM36ahmr37CmiSNKql5Cm21lhwluE0llceI5r8z2q58YgIzrYCwIk6q1dO2ipvf0CI2t0mL6yLMc2HxvTCcnDELXDjEWWC_ijHjPh0Bvm3tvvq4nf9wl8Vr0wj5PiN_-Uobvns0m11rzZYJO3DMT5YmbB28y6y42oJ0lbzJnfTTqNgv7YYa5MAHEUcRt_Wg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9487168,40.8101444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Women's Health Community Mural Project]]></name>
+        <description><![CDATA[<img src="https://doc-0g-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/8biambvemb3n0bod5cpnuvcigk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4SP7WskBipL0IoUMRnUDmvOWmsq6lYMyJ8wqYQpA9ofCv_8HE5vcBxc9wbckbY77brN-z0_C4PZ7NlDmb2SHkpfC0sxA-_QnpqCKBoIZhBI2pAx5Gs3F4HJPfCfdt8dztwqgol5kyL74b9vY-vKnQEJOetDYi071BOGwuaAuQaNStMiAg4ddQ3_Ot8yumq3FfRM3smrQFYN76PjIYE5jo1pea4e-7T5QUD1ZWEte6AHWE?session=0&fife" height="200" width="auto" /><br><br>Artistic Director/Muralist: Bryan Collier]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/8biambvemb3n0bod5cpnuvcigk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4SP7WskBipL0IoUMRnUDmvOWmsq6lYMyJ8wqYQpA9ofCv_8HE5vcBxc9wbckbY77brN-z0_C4PZ7NlDmb2SHkpfC0sxA-_QnpqCKBoIZhBI2pAx5Gs3F4HJPfCfdt8dztwqgol5kyL74b9vY-vKnQEJOetDYi071BOGwuaAuQaNStMiAg4ddQ3_Ot8yumq3FfRM3smrQFYN76PjIYE5jo1pea4e-7T5QUD1ZWEte6AHWE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9469841,40.8087538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>How Do I See Myself?</name>
+        <description><![CDATA[<img src="https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/afdda0bakiuuiihjc8g5i1m748/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6WW_mpjRk8rxYA00KwMjqcSEBvrrI0VvH-zJ0liEZHnPnZBvWVTUiOz9OqCKiMNoEJ7i5iutMdCdI2pEM3XDJu3lUCUqoCnS_8uwEut-61YXodMHVcctdX_m_7NskwBggQq7bpiATQIbrNTfNylwwbJuvsHx3M7BOBed5vr7wa5GfHWnS7G23Lt56Ne2PeXia70LgF-mLNuI5_6hi6DhDwTOpv6FOTY-biZwVkiF4SZe8?session=0&fife" height="200" width="auto" /><br><br>Creative Art Works (CAW)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/afdda0bakiuuiihjc8g5i1m748/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6WW_mpjRk8rxYA00KwMjqcSEBvrrI0VvH-zJ0liEZHnPnZBvWVTUiOz9OqCKiMNoEJ7i5iutMdCdI2pEM3XDJu3lUCUqoCnS_8uwEut-61YXodMHVcctdX_m_7NskwBggQq7bpiATQIbrNTfNylwwbJuvsHx3M7BOBed5vr7wa5GfHWnS7G23Lt56Ne2PeXia70LgF-mLNuI5_6hi6DhDwTOpv6FOTY-biZwVkiF4SZe8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9467728,40.8089691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zaila Avant-Garde</name>
+        <description><![CDATA[<img src="https://doc-08-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/fldgh8navtf5poc7fircc8132c/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6AkzmSZMDM2mA2r-XD6P6r4cvxkg3ss5zDcoEo-zT_8i-6SEw9Fy5bkPwQLydT2I47f_oMKyd1etHGOZfKK2o6h2--DbhisGg8UJEDN5kdBGaMhpgtWl6Tet6-h3VJEAE4WLJktq8KzcmvsTkyftB3Lz4rcufoqPnhGc8oQfR41dnoSIGEzuOjNuFoAspFKlFl0SSEwdKeF0tYWuCTDC4SgLjK-gSLSrgtKMMOvaiMMqI?session=0&fife" height="200" width="auto" /><br><br>Ysabel Abreu]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/fldgh8navtf5poc7fircc8132c/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6AkzmSZMDM2mA2r-XD6P6r4cvxkg3ss5zDcoEo-zT_8i-6SEw9Fy5bkPwQLydT2I47f_oMKyd1etHGOZfKK2o6h2--DbhisGg8UJEDN5kdBGaMhpgtWl6Tet6-h3VJEAE4WLJktq8KzcmvsTkyftB3Lz4rcufoqPnhGc8oQfR41dnoSIGEzuOjNuFoAspFKlFl0SSEwdKeF0tYWuCTDC4SgLjK-gSLSrgtKMMOvaiMMqI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9388394,40.804939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Art Man Dan: Black is Beautiful [ GMP]</name>
+        <description><![CDATA[<img src="https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/arv6qjsdcqi5fep3d6mlvv1hpo/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5NN-Q9cC9xqFud8Tf6AY_m0F3Pu-xRWaWOH8IH-H3emMe6wS7lHRZWqYsRafveaaqENex1x5zn0CU2zKqNMHOuBczwT8MObPNaOf-j4oNVNSNwC-eGIxuxswHJ95bw7ZI54SdBi2PTRWsiHZrcQkFvUVkvV2aCKIsaIdUXSxYEFgfmZa_So_dhhxHRtzv_5hW8niw5VbV_b8xyTge9N3-L6aJ77qUjHB8psNhRjYZLbc4?session=0&fife" height="200" width="auto" /><br><br>Daniel Bonilla]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/arv6qjsdcqi5fep3d6mlvv1hpo/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5NN-Q9cC9xqFud8Tf6AY_m0F3Pu-xRWaWOH8IH-H3emMe6wS7lHRZWqYsRafveaaqENex1x5zn0CU2zKqNMHOuBczwT8MObPNaOf-j4oNVNSNwC-eGIxuxswHJ95bw7ZI54SdBi2PTRWsiHZrcQkFvUVkvV2aCKIsaIdUXSxYEFgfmZa_So_dhhxHRtzv_5hW8niw5VbV_b8xyTge9N3-L6aJ77qUjHB8psNhRjYZLbc4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9388132,40.8049293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woman Painting Mural</name>
+        <description><![CDATA[<img src="https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/i6vf32kg3dl14dhcupbacaklhc/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet78VwIkhpvMqf6jX61AAJ_mXHjv7-rvuVBGvGR-L0A6sB0eHcWDvCYbkyPGWFbhkXZaA6Ecd9Emv-rShyZvC8JAz4lVmKplqPd5SxwyYsmakTO0VVC49HMUUWKGKkEOqhb203klFPYkq3hzl0Ad08xmeZEm0Yii0hiWlfQ9iMH6K7iNmZ14FWNeM5zCC8B7Po56oF4Y9yi5L1moETAzSJDiUG8K_h9j1bdWs2z1EA3E4dQ?session=0&fife" height="200" width="auto" /><br><br>Wall of Murals]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/i6vf32kg3dl14dhcupbacaklhc/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet78VwIkhpvMqf6jX61AAJ_mXHjv7-rvuVBGvGR-L0A6sB0eHcWDvCYbkyPGWFbhkXZaA6Ecd9Emv-rShyZvC8JAz4lVmKplqPd5SxwyYsmakTO0VVC49HMUUWKGKkEOqhb203klFPYkq3hzl0Ad08xmeZEm0Yii0hiWlfQ9iMH6K7iNmZ14FWNeM5zCC8B7Po56oF4Y9yi5L1moETAzSJDiUG8K_h9j1bdWs2z1EA3E4dQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9387904,40.8049218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl DMX Simmons 2 [GMP]</name>
+        <description><![CDATA[<img src="https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/invopun55hfv3lkve7ne6uqe9k/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet63saTCycOmVe6HvX-Fb0-NlUTd1Lvyy1n_aWZV0KeeN2UMNkR4qJBqABoJ5sRyrdl-ScfpwLQSur3fy3v02W-MKn-vDPO2HzeuHMaiWStllTtFCYSak29zmdRcfA0OBj__kGJc2yYpC6wvNxnFwWBfEbzmDm_VLo_muz_rAvPZeKJP75QKstweHFBpUtmmHjmPacJoFH6wt3AbYcgWreqexuc5U2MN9Sgi7wDmNFMePpk?session=0&fife" height="200" width="auto" /><br><br>Tommy the Animator, Evan Bishop, and Katori Walker]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/invopun55hfv3lkve7ne6uqe9k/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet63saTCycOmVe6HvX-Fb0-NlUTd1Lvyy1n_aWZV0KeeN2UMNkR4qJBqABoJ5sRyrdl-ScfpwLQSur3fy3v02W-MKn-vDPO2HzeuHMaiWStllTtFCYSak29zmdRcfA0OBj__kGJc2yYpC6wvNxnFwWBfEbzmDm_VLo_muz_rAvPZeKJP75QKstweHFBpUtmmHjmPacJoFH6wt3AbYcgWreqexuc5U2MN9Sgi7wDmNFMePpk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9387555,40.8049086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl DMX Simmons 1 [GMP]</name>
+        <description><![CDATA[<img src="https://doc-0c-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/cntrb7t7c9reojd7sgjgp5e91o/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7Uh0hJL5lCDZShghzIZh3fUmKwHpq3laraXkrHLuDeyE-gz1RmgE0iCLsBmC01nyZUHFlYlNh5UjkuSMlqvsZnsP0pe-K9i4TSVNGokPz5KQ_KGY-Zjmg4IydRxJQOMwGJ1VjBDIFBpjiGKWxhnOwfsU91PImLwAV6vTBocpuVeJ2flJgREiEgDl0b-dT9faIng-24HTn7q1oxjERjeLiDGviWn0iTPz3WwAsXfY1qnTs?session=0&fife" height="200" width="auto" /><br><br>Tommy the Animator, Evan Bishop, and Katori Walker]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/cntrb7t7c9reojd7sgjgp5e91o/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7Uh0hJL5lCDZShghzIZh3fUmKwHpq3laraXkrHLuDeyE-gz1RmgE0iCLsBmC01nyZUHFlYlNh5UjkuSMlqvsZnsP0pe-K9i4TSVNGokPz5KQ_KGY-Zjmg4IydRxJQOMwGJ1VjBDIFBpjiGKWxhnOwfsU91PImLwAV6vTBocpuVeJ2flJgREiEgDl0b-dT9faIng-24HTn7q1oxjERjeLiDGviWn0iTPz3WwAsXfY1qnTs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.938726,40.8048979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Black is Beautiful- Music & Art/Aesthetics ]]></name>
+        <description><![CDATA[<img src="https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/0q3c6o90vojc0du9ofgshtblls/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4fe2jfc9_Z3GNZP8ijYniviz1sqHWUQSJQXT1hUBAmKMyL9FW9S7nNeU9pMwvzBVoyh6pl0RbyjQz3EY1bYLbi7L2cB5-xLzSuQo1xJ4tHebiB-1FySCBVXDO4fkg2F4OhbFDEFbXkkgAA34YCqO2_t4pjS4-ad0kho2DynG6teWoEPtGpp-D-80ts35v6XRSzobvvtne2hB4Xi_gG8bcN1XXGgM-W33xoo4E7pctLJ9M?session=0&fife" height="200" width="auto" /><br><br>Evan Bishop and Walker Katori]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/0q3c6o90vojc0du9ofgshtblls/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4fe2jfc9_Z3GNZP8ijYniviz1sqHWUQSJQXT1hUBAmKMyL9FW9S7nNeU9pMwvzBVoyh6pl0RbyjQz3EY1bYLbi7L2cB5-xLzSuQo1xJ4tHebiB-1FySCBVXDO4fkg2F4OhbFDEFbXkkgAA34YCqO2_t4pjS4-ad0kho2DynG6teWoEPtGpp-D-80ts35v6XRSzobvvtne2hB4Xi_gG8bcN1XXGgM-W33xoo4E7pctLJ9M?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9387086,40.8048898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bryanna</name>
+        <description><![CDATA[<img src="https://doc-0o-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/ftsnk87kt90jjas0ce53v9r0ng/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet44FvGNj7GQyNMNNs6-XYukPH2E2SRtLy8b6JeI81QgSMuPsn2nZa-MYG9iOuJKs_hUpX07V3P7f13nOqKPrnPof6-HLAGdRlitzNhaeQblCjrddFWkadoI9Nvg0B2oLx8lU_TH8xd0HJqJYxPBt826QvYX1S6LwgZ2M1FguNz00fyqNxTDrvTotyQ6MxlOh56fVqQXduDUHkxgH12nvH2xfprywviRraQ3ssf9ASLbhok?session=0&fife" height="200" width="auto" /><br><br>Lost Breed Culture]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/ftsnk87kt90jjas0ce53v9r0ng/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet44FvGNj7GQyNMNNs6-XYukPH2E2SRtLy8b6JeI81QgSMuPsn2nZa-MYG9iOuJKs_hUpX07V3P7f13nOqKPrnPof6-HLAGdRlitzNhaeQblCjrddFWkadoI9Nvg0B2oLx8lU_TH8xd0HJqJYxPBt826QvYX1S6LwgZ2M1FguNz00fyqNxTDrvTotyQ6MxlOh56fVqQXduDUHkxgH12nvH2xfprywviRraQ3ssf9ASLbhok?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9388676,40.8049487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Be a Rainbow [GMP]</name>
+        <description><![CDATA[<img src="https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/l36k7dqlql86te68260no4mptk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4In_uwtsIYfOkvnP4GaIsBSJPdhbXm1ghOGNNxN4qY4ETkVvWIAjEfPV6KNnpLP5pZ9GC-8SrTtQeQulzOK1f3FTgqrYSWQ7ENiytiyDxFrLqGC0j46VFt2HvX7-BjM8qgf1V1a4pVBlzE3XMj0f6hpCJD_VoYay2L2RB34OFya1GnW396vQB5NXogONqUOZnAEFjwraN4UgNwUSbKxqGV37nz9ux2mpkqROZDU2o7hLA?session=0&fife" height="200" width="auto" /><br><br>Laura Alvarez]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/l36k7dqlql86te68260no4mptk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet4In_uwtsIYfOkvnP4GaIsBSJPdhbXm1ghOGNNxN4qY4ETkVvWIAjEfPV6KNnpLP5pZ9GC-8SrTtQeQulzOK1f3FTgqrYSWQ7ENiytiyDxFrLqGC0j46VFt2HvX7-BjM8qgf1V1a4pVBlzE3XMj0f6hpCJD_VoYay2L2RB34OFya1GnW396vQB5NXogONqUOZnAEFjwraN4UgNwUSbKxqGV37nz9ux2mpkqROZDU2o7hLA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9395737,40.8052035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterfall [GMP]</name>
+        <description><![CDATA[<img src="https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/9i3ejfhr2jrr75res18a4foft4/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7TnMHs3EnuF9WvZmePTAUi02wejtWzm5GnVHKb-cmfW4iwp8jejBFIAcCaq2X1GvgfyVpGqime1mS7-uYwm-zga3IrsQyQHN3UPfb74qGkCzwQ81DL3XKqPxJoIhWTls7oZKuDlvTAWU0-tuN7iIIBcT1GGXz-28JRhYBHHKFzUKw5TEUrKrkoI5g6pRaaTFiCxIw0E_MJ7g3U9GgfOapqaZlDN7Mj5ttbnl53wxpVbuE?session=0&fife" height="200" width="auto" /><br><br>LadyK Fever]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/9i3ejfhr2jrr75res18a4foft4/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7TnMHs3EnuF9WvZmePTAUi02wejtWzm5GnVHKb-cmfW4iwp8jejBFIAcCaq2X1GvgfyVpGqime1mS7-uYwm-zga3IrsQyQHN3UPfb74qGkCzwQ81DL3XKqPxJoIhWTls7oZKuDlvTAWU0-tuN7iIIBcT1GGXz-28JRhYBHHKFzUKw5TEUrKrkoI5g6pRaaTFiCxIw0E_MJ7g3U9GgfOapqaZlDN7Mj5ttbnl53wxpVbuE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9396273,40.8052339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I Love Harlem</name>
+        <description><![CDATA[<img src="https://doc-0g-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/7e8vorttel6n8cdtfj2mhj2090/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5qaavK0RJpzhh7c_wdRFBWTzLMgU80kzRp3qza6sRYJk8CscbNBChm0ZTBv4lgNytwFQAhM7E61YxZhDAJh2KyWOXwjZ7R1yGI80v6kzzU2i3QLMKCQcTY5zixLgA7cyRpdje1XQ_TF3zl0yF_qI6TkoDIUVHrCjr3JqEcTYpUiZiLpy-I7g5bf-17LGHxO9brGkzkS_qYLLLFoQ9uG4bdxVkqEKNEf9yon9Qdrc82TB0?session=0&fife" height="200" width="auto" /><br><br>Jason Martin]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/7e8vorttel6n8cdtfj2mhj2090/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet5qaavK0RJpzhh7c_wdRFBWTzLMgU80kzRp3qza6sRYJk8CscbNBChm0ZTBv4lgNytwFQAhM7E61YxZhDAJh2KyWOXwjZ7R1yGI80v6kzzU2i3QLMKCQcTY5zixLgA7cyRpdje1XQ_TF3zl0yF_qI6TkoDIUVHrCjr3JqEcTYpUiZiLpy-I7g5bf-17LGHxO9brGkzkS_qYLLLFoQ9uG4bdxVkqEKNEf9yon9Qdrc82TB0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9397006,40.8052714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Minnie Riperton: 'Adventures in Paradise' [GMP]]]></name>
+        <description><![CDATA[<img src="https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/i8scaaohfgkbjj47dd0h7g2eck/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6bxxVbp2DGNhC9viwLV4yRdKCSCeEwH2FCt5PbzZm2--Ta9TOVBzaNNCAAHYxCDxFcGajn4gwFazenv4YvZWQYclaOekRoA7wd4ySBeZVjYvxGhqjzlWOac6PPRgEflYaoRFd4KsVYVjqw5uA8Qu8uRLOlDxi-C4BQ2lK6-JD7hsqFkqJXoUKd4dFHqaFdpVwcnUpUB4MgOmL-7uRlm7JWYiY8jRGX5bNHzpJQzcjuZoY?session=0&fife" height="200" width="auto" /><br><br>Caryn Cast]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/i8scaaohfgkbjj47dd0h7g2eck/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet6bxxVbp2DGNhC9viwLV4yRdKCSCeEwH2FCt5PbzZm2--Ta9TOVBzaNNCAAHYxCDxFcGajn4gwFazenv4YvZWQYclaOekRoA7wd4ySBeZVjYvxGhqjzlWOac6PPRgEflYaoRFd4KsVYVjqw5uA8Qu8uRLOlDxi-C4BQ2lK6-JD7hsqFkqJXoUKd4dFHqaFdpVwcnUpUB4MgOmL-7uRlm7JWYiY8jRGX5bNHzpJQzcjuZoY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9397752,40.8053054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plants [GMP]</name>
+        <description><![CDATA[<img src="https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/cb3vl3bggsmh70tds7c96b5juk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7eQJOQLQqeQI_7WHFpWCp44gkoRLDOex7quuwM6XXkaJhRvACN3kq2sRA0OHwBopv28k1TFKpia1GyzCEr5zhEFYNJpvh9wmTGzT_dXILXcSt9-gsVdnFTwv6Aq-I8tg8IPxYsna9IPNQhZFcoCjmWtYW2AMYe6X_UaS8HWviQ3tNqoLIpRMso6Ex3GYyyTl99kTO8u4nxD4ApcYIU1Yub0bDUrM6IPH3bZ8gRVfWVglU?session=0&fife" height="200" width="auto" /><br><br>El Cekis]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-5s-mymaps.googleusercontent.com/untrusted/hostedimage/luvrkktlu889khuilrcolr8nco/cb3vl3bggsmh70tds7c96b5juk/1690829526750/khqJiW2SiZxlbeLJ_S765O1eUgSwMulj/05779602838550478882/5ACnmet7eQJOQLQqeQI_7WHFpWCp44gkoRLDOex7quuwM6XXkaJhRvACN3kq2sRA0OHwBopv28k1TFKpia1GyzCEr5zhEFYNJpvh9wmTGzT_dXILXcSt9-gsVdnFTwv6Aq-I8tg8IPxYsna9IPNQhZFcoCjmWtYW2AMYe6X_UaS8HWviQ3tNqoLIpRMso6Ex3GYyyTl99kTO8u4nxD4ApcYIU1Yub0bDUrM6IPH3bZ8gRVfWVglU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9398503,40.8053338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
